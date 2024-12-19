@@ -1,0 +1,7 @@
+127.0.0.1 - - [16/Dec/2024:16:13:46 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Dec/2024:16:13:47 +0530] "GET /spring-mvc-simple/WEB-INF/Pages/UserRegistration.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [16/Dec/2024:16:13:48 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [16/Dec/2024:16:14:07 +0530] "GET /spring-mvc-simple/Register HTTP/1.1" 200 1584
+0:0:0:0:0:0:0:1 - - [16/Dec/2024:16:15:35 +0530] "GET /spring-mvc-simple/Register HTTP/1.1" 200 1550
+0:0:0:0:0:0:0:1 - - [16/Dec/2024:16:17:36 +0530] "POST /spring-mvc-simple/Register HTTP/1.1" 200 1637
+0:0:0:0:0:0:0:1 - - [16/Dec/2024:16:18:30 +0530] "GET /spring-mvc-simple/Login HTTP/1.1" 200 944
